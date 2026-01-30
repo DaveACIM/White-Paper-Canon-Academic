@@ -40,7 +40,8 @@ These papers operationalize WPCA principles in generative AI systems.
 
 **White Paper Canon Academic (WPCA)** — Unified coherence-first architecture for stable intelligence at scale.
 
-👉 [Read the WPCA Canon](WPCA.pdf)
+👉 [White Paper Canon Academic (WPCA) Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/WHITE%20PAPER%20CANON%20ACADEMIC%20SUITE%2012926%20update-%20Complete%20.pdf)
+
 
 
 ---
