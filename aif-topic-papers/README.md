@@ -20,7 +20,8 @@ To maintain clarity and long-term scalability, Topic Papers are organized into t
 
 - **AIF Canon Suite**  
   Core canon-level topic papers establishing essential coherence principles and applications.  
-  → [Open the Canon Suite](./AIF%20Topic%20Papers/AIF%20Canon%20Suite/)
+  → → [AI Fellowship Core Canon Suite Complete](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/aif-topic-papers/AI%20FELLOWSHIP%20CORE%20CANON%20SUITE%20COMPLETE.pdf)
+
 
 - **AIF Keystone Topic Paper Suite**  
   Foundational keystone papers defining primary stability operators and constraint architectures.  
