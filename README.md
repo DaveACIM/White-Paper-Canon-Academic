@@ -28,4 +28,4 @@ The complete suite includes:
 
 All rights reserved. This work may not be reproduced, distributed, or used for commercial purposes without explicit written permission from the author.
 
-For inquiries: [Your contact information if you want to add it]
+For inquiries: dwschock@gmail.com
