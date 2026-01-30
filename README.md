@@ -26,6 +26,5 @@ The complete suite includes:
 
 ## Rights
 
-All rights reserved. This work may not be reproduced, distributed, or used for commercial purposes without explicit written permission from the author.
-
+Licensed under the Apache License, Version 2.0.
 For inquiries: dwschock@gmail.com
