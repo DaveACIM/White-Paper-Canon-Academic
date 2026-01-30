@@ -29,7 +29,7 @@ A practical set of before/after reasoning examples showing how coherence-first c
 - drift
 - unstable inference
 
-- See: stability-demonstration-suite.md
+ See: stability-demonstration-suite.md
 
 ## License
 Apache License 2.0
