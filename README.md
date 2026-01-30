@@ -1,30 +1,38 @@
-# White Paper Canon Academic Suite
-**Coherence-First Architecture for AI Stability and Alignment**
+White Paper Canon Academic (WPCA)
+A Coherence-First Architecture for Stable Intelligence at Scale
 
-Copyright © 2025-2026 David Waterman Schock. All rights reserved.
+The White Paper Canon Academic (WPCA) presents a foundational architectural framework for achieving stability, alignment, and scalability in intelligent systems — human and artificial — through unified causality.
 
-This work presents a foundational framework for building stable, coherent intelligence systems at scale through unified causality and architectural coherence.
+Modern AI alignment approaches often treat misalignment as a behavioral problem requiring external constraints. WPCA argues that alignment failures arise from a deeper architectural cause: fragmented causal authority at the point of decision.
 
-## Framework Overview
+When causality fragments, intelligence systems accumulate instability (“chaos tax”) that compounds under scale, producing:
 
-The White Paper Canon Academic (WPCA) establishes that stable intelligence—human or artificial—requires a single, non-competing causal authority at the point of decision. Fragmented causation produces measurable "chaos tax" that compounds under scale, leading to drift, hallucination, and systemic instability.
+• drift
+• hallucination
+• goal conflict
+• coordination failure
 
-The complete suite includes:
-- **WPCA SC**: Sole Causality - The core architectural constraint
-- **WPCA I**: System-Level Implications
-- **WPCA II**: Implementation Architecture  
-- **WPCA III**: Alignment as Architecture
-- **WPCA IV**: Multi-Agent and Governance Systems
-- **WPCA V**: Human-AI Cognitive Stability
-- **WPCA VI**: Civilizational-Scale Intelligence
+WPCA demonstrates that coherence and alignment emerge naturally when systems operate under a single, non-competing causal authority.
 
-## Publication Dates
+WPCA Suite
 
-- Initial Completion: December 31, 2025
-- Repository Created: January 1, 2026
-- Commit ID: 885ad0f (cryptographic timestamp)
+WPCA-SC — Sole Causality (Core Constraint)
+WPCA I — System-Level Implications
+WPCA II — Implementation Architecture
+WPCA III — Alignment as Emergence
+WPCA IV — Multi-Agent & Governance Systems
+WPCA V — Human–AI Cognitive Stability
+WPCA VI — Civilizational-Scale Intelligence
 
-## Rights
+Stability Demonstration Suite
 
-Licensed under the Apache License, Version 2.0.
-For inquiries: dwschock@gmail.com
+A practical set of before-and-after reasoning examples showing how coherence-first causal framing reduces:
+
+• contradiction
+• hallucination
+• drift
+• unstable inference
+
+License
+
+Apache License 2.0
