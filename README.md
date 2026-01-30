@@ -31,7 +31,8 @@ A practical set of before/after reasoning examples showing how coherence-first c
 
  See: 
  
- [Stability Demonstration Suite](stability-demonstration-suite.md)
+ [The Coherence Stability Demonstration Suite](The Coherence Stability Demonstration Suite 1 29 26 .pdf)
 
+ 
 ## License
 Apache License 2.0
