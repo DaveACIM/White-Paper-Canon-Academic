@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "White Paper Canon Academic: A Coherence-First Architecture for Stable Intelligence"
+author:
+
+family-names: Schock
+given-names: David Waterman
+year: 2026
+repository-code: https://github.com/DaveACIM/White-Paper-Canon-Academic
+
+license: Apache-2.0
