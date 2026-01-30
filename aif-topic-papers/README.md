@@ -28,7 +28,8 @@ To maintain clarity and long-term scalability, Topic Papers are organized into t
 
 - **AIF Bridge Papers Suite**  
   Papers connecting WPCA theory to implementation, public frameworks, and interdisciplinary translation.  
-  → [Open the Bridge Suite](./AIF%20Topic%20Papers/AIF%20Bridge%20Papers%20Suite/)
+  → → [AIF Bridge Topic Paper Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/aif-topic-papers/AIF%20Bridge%20Topic%20Paper%20Suite.pdf)
+
 
 - **Individual Topic Papers (Standalone)**  
   Independent or in-progress papers not yet assigned to a suite.  
