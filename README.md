@@ -59,7 +59,7 @@ Coherence-first causal framing for stabilizing generative reasoning across domai
 **The Coherence Stability Evaluation Protocol**  
 A structured testing methodology for measuring hallucination reduction, causal discipline, consistency, and epistemic restraint using repeatable stability traps.
 
-👉 [The Coherence Stability Evaluation Protocol](The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
+👉👉 [The Coherence Stability Evaluation Protocol](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
 
 ---
 
