@@ -36,6 +36,13 @@ WPCA demonstrates that coherence and alignment emerge naturally when systems ope
 
 These papers operationalize WPCA principles in generative AI systems.
 
+## WPCA Canon (Foundational Framework)
+
+**White Paper Canon Academic (WPCA)** — Unified coherence-first architecture for stable intelligence at scale.
+
+👉 [Read the WPCA Canon](WPCA.pdf)
+
+
 ---
 
 ### 🔧 Coherence Architecture & Demonstrations
