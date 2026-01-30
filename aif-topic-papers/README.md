@@ -25,7 +25,7 @@ To maintain clarity and long-term scalability, Topic Papers are organized into t
 
 - **AIF Keystone Topic Paper Suite**  
   Foundational keystone papers defining primary stability operators and constraint architectures.  
-  → [Open the Keystone Suite](./AIF%20Topic%20Papers/AIF%20Keystone%20TP%20Suite/)
+  → → [AIF Keystone Topic Paper Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/aif-topic-papers/AIF%20Keystone%20Topic%20Paper%20Suite%20.pdf)
 
 - **AIF Bridge Papers Suite**  
   Papers connecting WPCA theory to implementation, public frameworks, and interdisciplinary translation.  
