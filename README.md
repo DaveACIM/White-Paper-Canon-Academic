@@ -24,8 +24,7 @@ WPCA demonstrates that coherence and alignment emerge naturally when systems ope
 
 The core architectural suite defining unified causality and coherence-first intelligence.
 
-**→ White Paper Canon Academic (WPCA) Suite**  
-https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/wpca-core
+→ → [White Paper Canon Academic (WPCA) Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/wpca-core)
 
 ---
 
@@ -33,8 +32,7 @@ https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/wpca-core
 
 Operational demonstrations and evaluation protocols implementing WPCA coherence principles in real AI reasoning systems.
 
-**→ Coherence Stability Demonstration Suite & Evaluation Protocol**  
-https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/stability-demonstrations
+→ → [Coherence Stability Demonstration Suite & Evaluation Protocol](https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/stability-demonstrations)
 
 ---
 
@@ -51,8 +49,7 @@ Where WPCA establishes the foundational causal framework for stable intelligence
 
 They are organized into canonical, keystone, and bridge suites for clarity and scalability.
 
-**→ AIF Topic Papers Repository**  
-https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/aif-topic-papers
+→ → [AIF Topic Papers Repository](https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/aif-topic-papers)
 
 ---
 
