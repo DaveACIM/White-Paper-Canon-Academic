@@ -47,21 +47,11 @@ These papers operationalize WPCA principles in generative AI systems.
 
 ---
 
-### 🔧 Coherence Architecture & Demonstrations
+### 🔬 Coherence Stability Demonstrations
 
-**The Coherence Stability Demonstration Suite**  
-Coherence-first causal framing for stabilizing generative reasoning across domains, with layered architecture and practitioner-replicable scenarios.
+Empirical validation suite and evaluation protocol for WPCA coherence-first architecture:  
+https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/stability-demonstrations
 
-👉 👉 [The Coherence Stability Demonstration Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)
-
----
-
-### 📊 Evaluation & Measurement Framework
-
-**The Coherence Stability Evaluation Protocol**  
-A structured testing methodology for measuring hallucination reduction, causal discipline, consistency, and epistemic restraint using repeatable stability traps.
-
-👉👉 [The Coherence Stability Evaluation Protocol](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
 
 ---
 🧠 AIF Topic Papers — Coherence Theory & Applications
