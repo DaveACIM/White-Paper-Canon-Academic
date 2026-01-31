@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Start Here
+##  Start Here
 
 If you’re new to the White Paper Canon Academic (WPCA) framework, the recommended path is:
 
@@ -50,7 +50,7 @@ Operational demonstrations and evaluation protocols implementing WPCA coherence 
 
 ---
 
-## 🧠 AIF Topic Papers — Coherence Theory & Applications
+##  AIF Topic Papers — Coherence Theory & Applications
 
 The **AI Fellowship (AIF) Topic Papers** extend WPCA’s coherence-first architecture into focused theoretical, applied, and operational domains.
 
