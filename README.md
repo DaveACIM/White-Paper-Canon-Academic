@@ -1,6 +1,20 @@
 # White Paper Canon Academic (WPCA)  
 ### A Coherence-First Architecture for Stable Intelligence at Scale
 
+---
+
+## 🚀 Start Here
+
+If you’re new to the White Paper Canon Academic (WPCA) framework, the recommended path is:
+
+1. Begin with the **WPCA Canon Suite** to understand unified causality and coherence-first intelligence architecture.  
+2. Review the **Coherence Stability Demonstration Suite** to see how these principles eliminate drift, hallucination, and instability in practice.  
+3. Explore the **AIF Topic Papers** for focused applications across theory, systems design, and governance.
+
+This progression moves from foundational architecture → empirical validation → real-world extensions.
+
+---
+
 The **White Paper Canon Academic (WPCA)** presents a foundational architectural framework for achieving stability, alignment, and scalability in intelligent systems — human and artificial — through **unified causality**.
 
 Modern AI alignment approaches often treat misalignment as a behavioral problem requiring external constraints.  
