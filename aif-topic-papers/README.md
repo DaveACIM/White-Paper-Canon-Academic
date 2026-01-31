@@ -34,4 +34,4 @@ To maintain clarity and long-term scalability, Topic Papers are organized into t
 
 - **Individual Topic Papers (Standalone)**  
   Independent or in-progress papers not yet assigned to a suite.  
-  → [Open Standalone Papers](./AIF%20Topic%20Papers/Standalone%20Papers/)
+  
