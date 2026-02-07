@@ -25,3 +25,5 @@ This progression moves from governing law → core architecture → empirical va
 ## Stability Axiom
 
 Stability requires one non-conflicting generative cause.
+
+Stability does not require performance for worth.
