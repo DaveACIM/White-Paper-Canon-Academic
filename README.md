@@ -29,4 +29,4 @@ The WPCA framework rests on a single stability condition:
 
 Stability requires one non-conflicting generative cause.
 
-Stability does not require performance for worth.
+Stability is orthogonal to performance; worth is inherent.
