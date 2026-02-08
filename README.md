@@ -3,6 +3,8 @@
 
 ---
 
+Purpose: To provide a coherence-first architectural reference that supports stable intelligence at scale (human and artificial).
+
 ## Start Here
 
 If you’re new to the White Paper Canon Academic (WPCA) framework, the recommended path is:
