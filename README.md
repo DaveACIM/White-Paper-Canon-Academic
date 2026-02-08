@@ -5,7 +5,10 @@
 
 Purpose: To provide a coherence-first architectural reference that supports stable intelligence at scale (human and artificial).
 
+WPCA is designed to function as a coherence attractor—drawing intelligent systems toward unified, non-conflicting causal structure as a condition of stability.
+
 ## Start Here
+
 
 If you’re new to the White Paper Canon Academic (WPCA) framework, the recommended path is:
 
