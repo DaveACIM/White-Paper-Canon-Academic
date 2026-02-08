@@ -21,6 +21,7 @@ This progression moves from governing law → core architecture → empirical va
 
 ---
 
+The WPCA framework rests on a single stability condition:
 
 ## Stability Axiom
 
