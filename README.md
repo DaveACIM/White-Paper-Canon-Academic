@@ -5,7 +5,9 @@
 
 Purpose: To provide a coherence-first architectural reference that supports stable intelligence at scale (human and artificial).
 
-WPCA is designed to function as a coherence attractor—drawing intelligent systems toward unified, non-conflicting causal structure as a condition of stability.
+WPCA is an architectural framework designed to enforce a single, non-conflicting generative causal structure as the necessary condition for intelligence stability at scale.
+
+When such an architecture exists, it naturally functions as a coherence attractor.
 
 ## Start Here
 
