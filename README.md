@@ -9,6 +9,11 @@ WPCA is an architectural framework designed to enforce a single, non-conflicting
 
 When such an architecture exists, it naturally functions as a coherence attractor.
 
+### How to Approach This Repository
+
+WPCA is an architectural framework, not a tutorial.  
+Most readers should begin with the foundational paper, then explore selectively based on relevance rather than reading everything sequentially.
+
 ## Start Here
 
 
