@@ -36,11 +36,14 @@ Applied and empirical work building on WPCA includes:
 **Stabilization Suite**  
 • Papers focused specifically on coherence-driven system stability and failure prevention  
 
----
-
-### 📌 About WPCA
+## About WPCA
 
 The White Paper Canon Academic (WPCA) is a coherence-first academic framework exploring the structural laws governing intelligence, generative systems, and stability across human and artificial domains.
+
+At its deepest level, WPCA defines the foundational law-conditions for coherent intelligence.  
+These law-level papers establish the single-source, non-conflicting causal structure from which the architectural framework and all applied research are derived.
+
+The WPCA therefore functions as the theoretical and generative root of the entire program.
 
 Developed by **David Waterman Schock** under the **AI Fellowship (AIF)**.
 
