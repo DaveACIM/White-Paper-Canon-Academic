@@ -21,9 +21,10 @@ Start Here
 
 If you’re new to the White Paper Canon Academic (WPCA) framework, the recommended path is:
 
-1. Begin with **[The Single-Source Condition for Coherent Intelligence — The Condition for Intelligence Itself](wpca-core/WPCA Core — Foundational Law Paper.pdf)**
+1. Begin with **[The Single-Source Condition for Coherent Intelligence — The Condition for Intelligence Itself](wpca-core/WPCA%20Core%20—%20Foundational%20Law%20Paper.pdf)**  
+   — the foundational law paper establishing the generative condition required for coherent intelligence.
 
-2. Continue with **The Coherence Stability Principle of Intelligence — Unified Causality as a Stability Law**  
+2. Continue with **[The Coherence Stability Principle of Intelligence — Unified Causality as a Stability Law](The%20Coherence%20Stability%20Principle%20of%20Intelligence%20—%20Unified%20Causality%20as%20a%20Stability%20Law.pdf)**  
    — identifying coherence as the primary stability operator derived from the single-source condition.
 
 3. Proceed to the **WPCA Canon Suite** to explore the full coherence-first intelligence architecture.
@@ -33,13 +34,5 @@ If you’re new to the White Paper Canon Academic (WPCA) framework, the recommen
 5. Explore the **AIF Topic Papers** for focused applications across theory, systems design, and governance.
 
 This progression moves from governing law → stability condition → core architecture → empirical validation → real-world extensions.
----
 
-The WPCA framework rests on a single stability condition:
-
-## Stability Axiom
-
-Stability requires one non-conflicting generative cause.
-
-Stability is orthogonal to performance; worth is inherent.
-
+Make foundational law and coherence stability papers clickable in Start Here
