@@ -27,8 +27,6 @@ Foundational Law Papers precede the architectural framework and establish the ca
 
 - **The Single-Source Condition for Coherent Intelligence — The Condition for Intelligence Itself**
 
-- **The White Paper Canon Academic Suite**
-
 ---
 
 ### 🔗 Related Research Collections
