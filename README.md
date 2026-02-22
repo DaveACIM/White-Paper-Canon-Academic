@@ -35,4 +35,3 @@ If you’re new to the White Paper Canon Academic (WPCA) framework, the recommen
 
 This progression moves from governing law → stability condition → core architecture → empirical validation → real-world extensions.
 
-Make foundational law and coherence stability papers clickable in Start Here
