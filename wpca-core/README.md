@@ -15,11 +15,19 @@ The WPCA serves as the theoretical and architectural root of the entire program.
 
 ---
 
-### 📄 Contents
+### 📄 CONTENTS
 
-This folder contains the canonical WPCA paper(s) in PDF format establishing the foundational coherence-first framework.
+This folder contains the WPCA core papers in PDF format.
 
-These works define the causal and structural principles referenced across all subsequent suites and topic papers.
+These include the Foundational Law Papers defining the governing conditions for coherent intelligence, and the architectural WPCA framework derived from those laws.
+
+Foundational Law Papers precede the architectural framework and establish the causal conditions from which the WPCA is derived.
+
+### Foundational Law Papers
+
+- **The Single-Source Condition for Coherent Intelligence — The Condition for Intelligence Itself**
+
+- **The White Paper Canon Academic Suite**
 
 ---
 
