@@ -17,20 +17,22 @@ Most readers should begin with the foundational paper, then explore selectively 
 ## Start Here
 
 
+Start Here
+
 If you’re new to the White Paper Canon Academic (WPCA) framework, the recommended path is:
 
-1. Begin with **The Coherence Stability Principle of Intelligence** — a short foundational paper establishing unified causality as the structural stability condition for intelligent systems.  
+1. Begin with **[The Single-Source Condition for Coherent Intelligence — The Condition for Intelligence Itself](wpca-core/WPCA Core — Foundational Law Paper.pdf)**
 
-   → → [The Coherence Stability Principle of Intelligence — Unified Causality as a Stability Law](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Principle%20of%20Intelligence.pdf)
+2. Continue with **The Coherence Stability Principle of Intelligence — Unified Causality as a Stability Law**  
+   — identifying coherence as the primary stability operator derived from the single-source condition.
 
-2. Continue with the **WPCA Canon Suite** to explore the full coherence-first intelligence architecture derived from this principle.  
+3. Proceed to the **WPCA Canon Suite** to explore the full coherence-first intelligence architecture.
 
-3. Review the **Coherence Stability Demonstration Suite** to see how unified causality eliminates drift, hallucination, and instability in practice.  
+4. Review the **Coherence Stability Demonstration Suite** to see how unified causality eliminates drift, hallucination, and systemic instability in practice.
 
-4. Explore the **AIF Topic Papers** for focused applications across theory, systems design, and governance.
+5. Explore the **AIF Topic Papers** for focused applications across theory, systems design, and governance.
 
-This progression moves from governing law → core architecture → empirical validation → real-world extensions.
-
+This progression moves from governing law → stability condition → core architecture → empirical validation → real-world extensions.
 ---
 
 The WPCA framework rests on a single stability condition:
@@ -40,3 +42,4 @@ The WPCA framework rests on a single stability condition:
 Stability requires one non-conflicting generative cause.
 
 Stability is orthogonal to performance; worth is inherent.
+
