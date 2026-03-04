@@ -24,7 +24,7 @@ Most readers should begin with the foundational paper, then explore selectively 
 
 For readers new to the WPCA framework, the following short paper summarizes the central insight guiding the entire project:
 
-**[The Coherence Principle — A One-Page Entry into the WPCA Framework](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Principle.docx)**
+**[The Coherence Principle — A One-Page Entry into the WPCA Framework](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Principle.pdf)**
 
 A brief gateway document introducing the core idea that coherent intelligence requires internally non-contradictory generative structure.
 
@@ -79,5 +79,6 @@ Reference materials and supporting citations.
 
 ## License and Citation
 
-See **LICENSE**  
+See **LICENSE**
+
 See **CITATION.cff**
