@@ -1,6 +1,18 @@
 # White Paper Canon Academic (WPCA)  
 ### A Coherence-First Architecture for Stable Intelligence at Scale
 
+WPCA Framework
+
+Law Condition
+↓
+Stability Law
+↓
+Architecture Canon
+↓
+Demonstration Suite
+↓
+Applied Research
+
 ---
 
 ## Purpose
