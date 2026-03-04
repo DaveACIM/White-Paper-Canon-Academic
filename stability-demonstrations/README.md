@@ -45,7 +45,7 @@ These papers demonstrate how WPCA principles can be applied directly to real rea
 
 A coherence-first causal framing for stabilizing generative reasoning across domains using layered architecture and practitioner-replicable scenarios.
 
-👉 **[The Coherence Stability Demonstration Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)**
+👉 **[The Coherence Stability Demonstration Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/stability-demonstrations/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)**
 
 ---
 
@@ -60,7 +60,7 @@ A structured testing methodology for measuring:
 
 through repeatable **stability traps**.
 
-👉 **[The Coherence Stability Evaluation Protocol](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20v2.pdf)**
+👉 **[The Coherence Stability Evaluation Protocol](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/stability-demonstrations/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)**
 
 ---
 
