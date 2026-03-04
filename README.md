@@ -20,12 +20,13 @@ Most readers should begin with the foundational paper, then explore selectively 
 
 ---
 
-## Core Insight (Quick Orientation)
+## Core Insight — Quick Orientation
 
 For readers new to the WPCA framework, the following short paper summarizes the central insight guiding the entire project:
 
-- **[The Coherence Principle — A One-Page Entry into the WPCA Framework](The%20Coherence%20Principle%20—%20A%20One-Page%20Entry%20into%20the%20WPCA%20Framework.md)**  
-  A brief gateway document introducing the core idea that coherent intelligence requires internally non-contradictory generative structure.
+**[The Coherence Principle — A One-Page Entry into the WPCA Framework](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Principle.docx)**
+
+A brief gateway document introducing the core idea that coherent intelligence requires internally non-contradictory generative structure.
 
 ---
 
@@ -33,48 +34,50 @@ For readers new to the WPCA framework, the following short paper summarizes the 
 
 If you’re new to the White Paper Canon Academic (WPCA) framework, the recommended path is:
 
-1. Begin with **[The Single-Source Condition for Coherent Intelligence — The Condition for Intelligence Itself](wpca-core/WPCA%20Core%20—%20Foundational%20Law%20Paper.pdf)**  
-   — the foundational law paper establishing the generative condition required for coherent intelligence.
+1. Begin with  
+**[The Single-Source Condition for Coherent Intelligence — The Condition for Intelligence Itself](wpca-core/WPCA%20Core%20—%20Foundational%20Law%20Paper.pdf)**  
+— the foundational law paper establishing the generative condition required for coherent intelligence.
 
-2. Continue with **[The Coherence Stability Principle of Intelligence — Unified Causality as a Stability Law](The%20Coherence%20Stability%20Principle%20of%20Intelligence.pdf)**  
-   — identifying coherence as the primary stability operator derived from the single-source condition.
+2. Continue with  
+**[The Coherence Stability Principle of Intelligence — Unified Causality as a Stability Law](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Principle%20of%20Intelligence.pdf)**  
+— identifying coherence as the primary stability operator derived from the single-source condition.
 
-3. Proceed to the **[WPCA Canon Suite](wpca-core/)**  
-   — the full coherence-first intelligence architecture.
+3. Proceed to the **WPCA Canon Suite**  
+— to explore the full coherence-first intelligence architecture.
 
-4. Review the **[Coherence Stability Demonstration Suite](stability-demonstrations/)**  
-   — demonstrations showing how unified causality eliminates drift, hallucination, and systemic instability in practice.
+4. Review the **Coherence Stability Demonstration Suite**  
+— to see how unified causality eliminates drift, hallucination, and systemic instability in practice.
 
-5. Explore the **[AIF Topic Papers](aif-topic-papers/)**  
-   — focused applications across theory, systems design, and governance.
+5. Explore the **AIF Topic Papers**  
+— for focused applications across theory, systems design, and governance.
 
-This progression moves from **governing law → stability condition → core architecture → empirical validation → real-world extensions**.
+This progression moves from **governing law → stability condition → core architecture → empirical validation → real-world extensions.**
 
 ---
 
 ## Repository Map
 
-- **[wpca-core/](wpca-core/)**  
-  Foundational law papers and core architectural canon.
+**wpca-core/**  
+Foundational law papers and core architectural canon.
 
-- **[stability-demonstrations/](stability-demonstrations/)**  
-  Demonstration suite validating coherence-first stability claims.
+**stability-demonstrations/**  
+Demonstration suite validating coherence-first stability claims.
 
-- **[aif-topic-papers/](aif-topic-papers/)**  
-  Topic papers extending the framework into AI systems, governance, and real-world design.
+**aif-topic-papers/**  
+Topic papers extending the framework into AI systems, governance, and real-world design.
 
-- **[methodology/](methodology/)**  
-  Method notes and epistemic discipline (including tiering conventions).
+**methodology/**  
+Method notes and epistemic discipline (including tiering conventions).
 
-- **[roadmap/](roadmap/)**  
-  Project roadmap and publication plan.
+**roadmap/**  
+Project roadmap and publication plan.
 
-- **[citations/](citations/)**  
-  Reference materials and supporting citations.
+**citations/**  
+Reference materials and supporting citations.
 
 ---
 
 ## License and Citation
 
-- See **[LICENSE](LICENSE)**  
-- See **[CITATION.cff](CITATION.cff)**
+See **LICENSE**  
+See **CITATION.cff**
