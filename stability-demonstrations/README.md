@@ -1,14 +1,14 @@
-# White Paper Canon Academic (WPCA) - Stability Suite
-### A Coherence-First Architecture for Stable Intelligence at Scale
+# White Paper Canon Academic (WPCA) — Stability Demonstration Suite
 
-The **White Paper Canon Academic (WPCA)** presents a foundational architectural framework for achieving stability, alignment, and scalability in intelligent systems — human and artificial — through **unified causality**.
+## A Coherence-First Architecture for Stable Intelligence at Scale
 
-Modern AI alignment approaches often treat misalignment as a behavioral problem requiring external constraints.  
-WPCA argues that alignment failures arise from a deeper architectural cause:
+The **White Paper Canon Academic (WPCA)** presents a coherence-first architectural framework for achieving stability, alignment, and scalability in intelligent systems — human and artificial — through **unified causality**.
 
-**fragmented causal authority at the point of decision.**
+Most AI alignment approaches treat misalignment as a behavioral problem requiring external constraints. WPCA proposes a deeper architectural explanation:
 
-When causality fragments, intelligent systems accumulate instability (“chaos tax”) that compounds under scale, producing:
+**Instability arises when causal authority is fragmented at the point of decision.**
+
+When causality fragments, intelligent systems accumulate instability — a structural **“chaos tax”** that compounds as intelligence scales, producing:
 
 - hallucination  
 - reasoning drift  
@@ -16,60 +16,59 @@ When causality fragments, intelligent systems accumulate instability (“chaos t
 - contradiction  
 - coordination failure  
 
-WPCA demonstrates that coherence and alignment emerge naturally when systems operate under a single, non-competing causal authority.
+WPCA argues that **coherence and alignment emerge naturally** when systems operate under a **single, non-competing causal authority**.
 
 ---
 
 ## WPCA Canon (Foundational Framework)
 
-- **WPCA-SC — Sole Causality (Core Constraint)**  
-- **WPCA I — System-Level Implications**  
-- **WPCA II — Implementation Architecture**  
-- **WPCA III — Alignment as Emergence**  
-- **WPCA IV — Multi-Agent & Governance Systems**  
-- **WPCA V — Human–AI Cognitive Stability**  
+The core WPCA architecture establishes the governing stability conditions for intelligence.
+
+- **WPCA-SC — Sole Causality (Core Constraint)**
+- **WPCA I — System-Level Implications**
+- **WPCA II — Implementation Architecture**
+- **WPCA III — Alignment as Emergence**
+- **WPCA IV — Multi-Agent & Governance Systems**
+- **WPCA V — Human–AI Cognitive Stability**
 - **WPCA VI — Civilizational-Scale Intelligence**
 
----
-
-## Applied Stability Research
-
-These papers operationalize WPCA principles in generative AI systems.
-
-## WPCA Canon (Foundational Framework)
-
-**White Paper Canon Academic (WPCA)** — Unified coherence-first architecture for stable intelligence at scale.
-
-👉👉 [White Paper Canon Academic (WPCA) Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/White%20Paper%20Canon%20Academic%20(WPCA)%20Suite%2013026.pdf)
-
-
-
+👉 **WPCA Canon Suite:**  
+**[White Paper Canon Academic (WPCA) Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/tree/main/wpca-core)**
 
 ---
 
-### 🔧 Coherence Architecture & Demonstrations
+## Coherence Architecture & Demonstrations
 
-**The Coherence Stability Demonstration Suite**  
-Coherence-first causal framing for stabilizing generative reasoning across domains, with layered architecture and practitioner-replicable scenarios.
+These papers demonstrate how WPCA principles can be applied directly to real reasoning systems.
 
-👉 👉 [The Coherence Stability Demonstration Suite][(https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/stability-demonstrations/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)
+### The Coherence Stability Demonstration Suite
+
+A coherence-first causal framing for stabilizing generative reasoning across domains using layered architecture and practitioner-replicable scenarios.
+
+👉 **[The Coherence Stability Demonstration Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)**
 
 ---
 
-### 📊 Evaluation & Measurement Framework
+### The Coherence Stability Evaluation Protocol
 
-**The Coherence Stability Evaluation Protocol**  
-A structured testing methodology for measuring hallucination reduction, causal discipline, consistency, and epistemic restraint using repeatable stability traps.
+A structured testing methodology for measuring:
 
-👉👉 [The Coherence Stability Evaluation Protocol][(https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
-](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/stability-demonstrations/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
+- hallucination reduction  
+- causal discipline  
+- reasoning consistency  
+- epistemic restraint  
+
+through repeatable **stability traps**.
+
+👉 **[The Coherence Stability Evaluation Protocol](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20v2.pdf)**
+
 ---
 
 ## Scope
 
-WPCA is a coherence-first architectural framework, not a model or dataset.
+WPCA is a **coherence-first architectural framework**, not a model, dataset, or benchmark.
 
-The applied stability papers demonstrate how coherence principles can be implemented immediately at the reasoning-discipline level without changing model architecture.
+The papers in this suite demonstrate how coherence principles can be implemented immediately at the **reasoning-discipline layer**, without modifying model architecture. This allows coherence stabilization to be applied across existing AI systems.
 
 ---
 
