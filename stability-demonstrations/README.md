@@ -1,4 +1,4 @@
-# White Paper Canon Academic (WPCA)  
+# White Paper Canon Academic (WPCA) - Stability Suite
 ### A Coherence-First Architecture for Stable Intelligence at Scale
 
 The **White Paper Canon Academic (WPCA)** presents a foundational architectural framework for achieving stability, alignment, and scalability in intelligent systems — human and artificial — through **unified causality**.
@@ -61,8 +61,8 @@ Coherence-first causal framing for stabilizing generative reasoning across domai
 **The Coherence Stability Evaluation Protocol**  
 A structured testing methodology for measuring hallucination reduction, causal discipline, consistency, and epistemic restraint using repeatable stability traps.
 
-👉👉 [The Coherence Stability Evaluation Protocol](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
-
+👉👉 [The Coherence Stability Evaluation Protocol][(https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
+](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/stability-demonstrations/The%20Coherence%20Stability%20Evaluation%20Protocol%201%2030%2026%20.pdf)
 ---
 
 ## Scope
