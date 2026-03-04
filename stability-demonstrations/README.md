@@ -52,7 +52,7 @@ These papers operationalize WPCA principles in generative AI systems.
 **The Coherence Stability Demonstration Suite**  
 Coherence-first causal framing for stabilizing generative reasoning across domains, with layered architecture and practitioner-replicable scenarios.
 
-👉 👉 [The Coherence Stability Demonstration Suite](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)
+👉 👉 [The Coherence Stability Demonstration Suite][(https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/stability-demonstrations/The%20Coherence%20Stability%20Demonstration%20Suite.pdf)
 
 ---
 
