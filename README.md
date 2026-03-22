@@ -3,6 +3,16 @@
 
 WPCA Framework
 
+## Foundational Principles
+
+This repository is structured in layers.
+
+**Foundational Principles** define the structural constraints under which intelligence can remain stable.
+
+- *The Architecture of Integrity* establishes that systems operating under internal contradiction cannot produce stable outputs, and derives the conditions required for stability.
+
+These principles ground the WPCA framework, which defines the architectural system required to satisfy them.
+
 Law Condition
 ↓
 Stability Law
