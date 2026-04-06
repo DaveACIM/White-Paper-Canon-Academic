@@ -7,12 +7,6 @@ The WPCA identifies fragmented causality as the root cause of AI instability and
 
 → Start with the [Executive Brief](EXECUTIVE_BRIEF.md)
 
-## Executive Brief
-
-Read the one-page summary here: [Executive Brief](EXECUTIVE_BRIEF.md)
-
-WPCA Framework
-
 ## Foundational Principles
 
 This repository is structured in layers.
