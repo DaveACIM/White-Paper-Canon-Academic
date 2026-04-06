@@ -1,6 +1,10 @@
 # White Paper Canon Academic (WPCA)  
 ### A Coherence-First Architecture for Stable Intelligence at Scale
 
+## Executive Brief
+
+Read the one-page summary here: [Executive Brief](EXECUTIVE_BRIEF.md)
+
 WPCA Framework
 
 ## Foundational Principles
