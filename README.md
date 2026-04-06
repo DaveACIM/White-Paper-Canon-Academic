@@ -1,7 +1,7 @@
 # White Paper Canon Academic (WPCA)  
 ### A Coherence-First Architecture for Stable Intelligence at Scale
 
-A coherence-first architectural framework for stabilizing intelligence at scale.
+A coherence-first architecture for stabilizing intelligence at scale.
 
 > Intelligence stabilizes when causal authority is unified.
 
