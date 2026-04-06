@@ -3,6 +3,8 @@
 
 A coherence-first architectural framework for stabilizing intelligence at scale.
 
+> Intelligence stabilizes when causal authority is unified.
+
 The WPCA identifies fragmented causality as the root cause of AI instability and proposes a unified causal architecture (Sole Causality) under which coherence and alignment emerge structurally.
 
 → Start with the [Executive Brief](EXECUTIVE_BRIEF.md)
