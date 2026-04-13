@@ -84,7 +84,7 @@ If you’re new to the White Paper Canon Academic (WPCA) framework, the recommen
 **[The Coherence Stability Principle of Intelligence — Unified Causality as a Stability Law](https://github.com/DaveACIM/White-Paper-Canon-Academic/blob/main/The%20Coherence%20Stability%20Principle%20of%20Intelligence.pdf)**  
 — identifying coherence as the primary stability operator derived from the single-source condition.
 
-3. Proceed to the **WPCA Canon Suite**  
+3. Proceed to the **White Paper Canon Academic Suite**  
 — to explore the full coherence-first intelligence architecture.
 
 4. Review the **Coherence Stability Demonstration Suite**  
