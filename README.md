@@ -1,5 +1,4 @@
 # White Paper Canon Academic (WPCA)  
-→ Read the full WPCA Core Suite (PDF)
 
 ### A Coherence-First Architecture for Stable Intelligence at Scale
 
@@ -10,6 +9,9 @@ A coherence-first architecture for stabilizing intelligence at scale.
 The WPCA identifies fragmented causal authority as the root cause of AI instability and proposes a unified causal architecture (Sole Causality) under which coherence and alignment emerge structurally.
 
 → Start with the [Executive Brief](EXECUTIVE_BRIEF.md)
+
+→ Read the full WPCA Core Suite (PDF):  
+**[WPCA Core Suite (April 2026)](wpca-core/WPCA_Core_Suite_April_2026.pdf)**
 
 ---
 
