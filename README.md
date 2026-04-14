@@ -101,11 +101,10 @@ This progression moves from:
 
 ## Demonstration (Applied Example)
 
-A minimal worked example showing how WPCA explains AI hallucination as a coherence failure arising from fragmented causal authority:
+A minimal set of worked examples showing how WPCA explains common AI failure modes as coherence failures arising from fragmented causal authority:
 
-**[WPCA Worked Example — Hallucination](stability-demonstrations/WPCA_Worked_Example_Hallucination.md)**
-
-This example demonstrates how WPCA compresses multiple failure modes into a single structural cause.
+**[WPCA Worked Example — Hallucination](stability-demonstrations/WPCA_Worked_Example_Hallucination.md)**  
+**[WPCA Worked Example — Sycophancy](stability-demonstrations/WPCA_Worked_Example_Sycophancy.md)**
 
 ---
 
