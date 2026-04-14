@@ -105,6 +105,8 @@ A minimal worked example showing how WPCA explains AI hallucination as a coheren
 
 **[WPCA Worked Example — Hallucination](stability-demonstrations/WPCA_Worked_Example_Hallucination.md)**
 
+This example demonstrates how WPCA compresses multiple failure modes into a single structural cause.
+
 ---
 
 ## Repository Map
