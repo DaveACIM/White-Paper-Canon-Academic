@@ -10,7 +10,7 @@ The WPCA identifies fragmented causal authority as the root cause of AI instabil
 
 → Start with the [Executive Brief](EXECUTIVE_BRIEF.md)
 
-→ Read the full WPCA Core Suite (PDF):  
+→ Read the full White Paper Canon Academic Suite:  
 **[WPCA Core Suite (April 2026)](wpca-core/WPCA_Core_Suite_April_2026.pdf)**
 
 ---
