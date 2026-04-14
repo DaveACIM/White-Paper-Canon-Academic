@@ -99,6 +99,14 @@ This progression moves from:
 
 ---
 
+## Demonstration (Applied Example)
+
+A minimal worked example showing how WPCA explains AI hallucination as a coherence failure arising from fragmented causal authority:
+
+**[WPCA Worked Example — Hallucination](stability-demonstrations/WPCA_Worked_Example_Hallucination.md)**
+
+---
+
 ## Repository Map
 
 **wpca-core/**  
