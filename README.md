@@ -1,4 +1,6 @@
 # White Paper Canon Academic (WPCA)  
+→ Read the full WPCA Core Suite (PDF)
+
 ### A Coherence-First Architecture for Stable Intelligence at Scale
 
 A coherence-first architecture for stabilizing intelligence at scale.
