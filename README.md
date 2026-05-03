@@ -21,6 +21,8 @@ Before engaging the WPCA architecture, begin with the foundational constraint:
 
 **[The Only Non-Self-Undermining Ground for AI Coherence](00_foundation/foundational_argument.md)**
 
+This is the required starting point for understanding the WPCA framework.
+
 This paper demonstrates that all standard foundations for AI coherence fail on their own terms because they presuppose the coherence they attempt to explain.
 
 It identifies a single non-self-undermining foundation—**Sole Causality**—as the necessary condition for stable intelligence.
