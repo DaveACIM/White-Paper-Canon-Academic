@@ -29,6 +29,24 @@ It identifies a single non-self-undermining foundation—**Sole Causality**—as
 
 ---
 
+## Methodology
+
+The WPCA includes a structural method for evaluating whether systems can remain stable under scale:
+
+**[The Infinite-Scale Test](methodology/infinite_scale_test.md)**
+
+This method asks:
+
+> Can a system remain coherent under unbounded extension?
+
+It shows that contradiction, fragmentation, and competing causal directives may be tolerated locally, but become sources of instability as systems scale.
+
+> The infinite does not create the contradiction. It reveals the contradiction that finite scale was able to conceal.
+
+This provides a general diagnostic for identifying structural incoherence across domains, and a concrete framework for evaluating AI systems under increasing complexity.
+
+---
+
 ## Formal Definitions
 
 Operational definitions for key WPCA terms (causal authority, fragmentation, coherence) are provided here:
@@ -48,3 +66,9 @@ This repository is structured in layers.
 - *The Architecture of Integrity* establishes that systems operating under internal contradiction cannot produce stable outputs, and derives the conditions required for stability.
 
 These principles ground the WPCA framework, which defines the architectural system required to satisfy them.
+
+---
+
+## Conceptual Structure
+
+The WPCA is organized as a layered system:
