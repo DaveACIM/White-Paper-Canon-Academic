@@ -17,7 +17,7 @@ The WPCA identifies fragmented causal authority as the root cause of AI instabil
 
 ## Foundational Argument
 
-Before engaging the WPCA architecture, the following paper establishes the central constraint:
+Before engaging the WPCA architecture, begin with the foundational constraint:
 
 **[The Only Non-Self-Undermining Ground for AI Coherence](00_foundation/foundational_argument.md)**
 
